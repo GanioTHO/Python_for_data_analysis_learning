@@ -35,3 +35,4 @@ price3 = 100
 txt = f"It is {'perfect' if price3 == 100 else 'ok'}"
 print(txt)
 # It is perfect
+#
